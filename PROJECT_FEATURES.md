@@ -5,5 +5,4 @@ This task involves creating a login form component with email and password field
 - Created Signup
 - Added Forgot Password
 - Added Navigation Menu
-**Status: Implemented**
-
+- **Status: Implemented**
